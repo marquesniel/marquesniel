@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marquesniel
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning HTML5, CSS3, JS, Python and SQLite
+- 🌱 I’m currently learning Shell, Python and SQL
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 Reach me on mail marques.niel@gmail.com
 
